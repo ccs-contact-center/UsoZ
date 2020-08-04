@@ -12,11 +12,12 @@ class PresentacionView extends Component {
     return (
       <div className="animated fadeIn">
         <CardHeader className="text-left">
-          <h3> Uso de correcto de la V</h3>
+          <h3> Uso de correcto de la Z</h3>
         </CardHeader>
         <CardBody className="">
           <Row>
             <Col xs="12" sm="12" md="12" className="centrado-fila mt-3">
+              Video pendiente...
                 <ReactPlayer
                   className="animated bounceInRight delay-0s"
                   width="65%"
