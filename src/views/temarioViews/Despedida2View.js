@@ -17,7 +17,7 @@ class PresentacionView extends Component {
           <Row>
             <Col xs="12" className=" animated  fadeInDown  delay-1s">
               <p className="text-center">
-                Hasta aquí las <b>reglas ortográficas de la G</b>, espero que
+                Hasta aquí las <b>reglas ortográficas de la Z</b>, espero que
                 les hayan quedado claras y a partir de ahora no escribirás con
                 muchas faltas de ortografía.
               </p>
